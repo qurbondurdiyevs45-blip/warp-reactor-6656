@@ -1,0 +1,15 @@
+{
+  "name": "warp-reactor-6656",
+  "version": "0.1.0",
+  "generator": "PushForge Engine",
+  "capabilities": [
+    "ideate",
+    "compose",
+    "commit"
+  ],
+  "manifest": {
+    "entry": "src/index.ts",
+    "seed": 7631,
+    "createdAt": "2026-07-16T09:33:48.861Z"
+  }
+}
